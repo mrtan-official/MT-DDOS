@@ -34,12 +34,12 @@ print('''\033[38;5;156m
 \033[1;37m ┃\033[38;5;196m>>\033[38;5;156m Git\033[1;37m:\033[38;5;75m https://github.com/mrtan-official
 \033[1;37m  ┃\033[38;5;196m>>\033[38;5;156m Fb\033[1;37m:\033[38;5;75m https://facebook.com/MrT4N.Official
    \033[1;37m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[38;5;156m
-    ┃                                              ┃    
-    ┃  [!] Disclaimer :                            ┃
-    ┃  1. Don't Use For Personal Revenges          ┃
-    ┃  2. Author Is Not Responsible For Your Jobs  ┃
-    ┃  3. Use for learning purposes                ┃ 
-    ┃  4. Does MT suit in villain role, huh?       ┃
+┃                                              ┃    
+┃  [!] Disclaimer :                            ┃
+┃  1. Don't Use For Personal Revenges          ┃
+┃  2. Author Is Not Responsible For Your Jobs  ┃
+┃  3. Use for learning purposes                ┃ 
+┃  4. Does MT suit in villain role, huh?       ┃
    \033[1;37m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[38;5;156m
 	''')
 #Type your ip and port number (find IP address using nslookup or any online website) 

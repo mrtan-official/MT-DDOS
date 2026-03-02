@@ -9,6 +9,8 @@
 `sudo apt update && sudo apt upgrade -y`<br>
 `sudo apt install python -y`<br>
 `sudo apt install git -y`<br>
+`git clone https://github.com/mrtan-official/MT-DDOS.git`<br>
+`cd MT-DDOS`<br>
 `python -m pip install -r requirements.txt`<br>
-`python MT.py`<br>
+`python MT-ddos.py`<br>
 #

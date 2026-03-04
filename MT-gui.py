@@ -47,13 +47,13 @@ def attack():
     #os.system("figlet Attack Starting")
     print("[>                      ] 0% ")
     time.sleep(0.5)
-    print("[=====>      H          ] 25%")
+    print("[=====>      D          ] 25%")
     time.sleep(0.5)
-    print("[==========> U          ] 50%")
+    print("[==========> D          ] 50%")
     time.sleep(0.5)
-    print("[==========  L ====>    ] 75%")
+    print("[==========  O ====>    ] 75%")
     time.sleep(0.5)
-    print("[==========  K ========>] 100%")
+    print("[==========  S ========>] 100%")
     time.sleep(3)
     sent = 0
     while True:
